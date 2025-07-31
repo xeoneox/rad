@@ -1,4 +1,4 @@
-module github.com/xeoneox/rad
+module rad
 
 go 1.24.5
 
@@ -12,6 +12,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/google/uuid v1.6.0
 	github.com/lithammer/fuzzysearch v1.1.8
+	github.com/magefile/mage v1.15.0
 	github.com/mattn/go-isatty v0.0.20
 	github.com/samber/lo v1.51.0
 	github.com/sanity-io/litter v1.5.8

@@ -8,6 +8,8 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+
+	"github.com/magefile/mage/mage"
 )
 
 const BIN_DIR = "bin"
