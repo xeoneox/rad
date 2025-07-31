@@ -1,4 +1,4 @@
-module rad
+module github.com/xeoneox/rad
 
 go 1.24.5
 
